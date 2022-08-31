@@ -5,7 +5,7 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 /* HEADER */
-body header {
+header {
     height: 25vh;
     background-color: rgb(0, 175, 214);  
     text-align: center;
